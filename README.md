@@ -21,6 +21,7 @@ The dataset contains information about movies and TV shows available on Netflix,
 - duration
 - listed_in
 - description
+- duration_value
 
 ---
 
